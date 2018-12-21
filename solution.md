@@ -8,9 +8,6 @@ the next one running.
 ---
 
 ## 2.
-| Process |A | B | C | D | E | F | G | H |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Expected run time (msec) | 8 | 5 | 16 | 12 | 55 | 21 | 2 | 34
 
 | Process |G | B | A | D | C | F | H | E |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
